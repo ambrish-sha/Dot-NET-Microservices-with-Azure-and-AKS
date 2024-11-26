@@ -1,0 +1,2 @@
+Protect APIs with Application Gateway and API Management:
+https://learn.microsoft.com/en-us/azure/architecture/web-apps/api-management/architectures/protect-apis
