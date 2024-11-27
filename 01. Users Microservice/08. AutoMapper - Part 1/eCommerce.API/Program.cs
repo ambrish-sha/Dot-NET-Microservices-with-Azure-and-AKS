@@ -16,6 +16,7 @@ builder.Services.AddControllers().AddJsonOptions(options => {
 });
 
 builder.Services.AddAutoMapper(typeof(ApplicationUserMappingProfile));
+builder.Services.AddAutoMapper(typeof(RegisterUserMappingProfile));
 
 //Build the web application
 var app = builder.Build();
