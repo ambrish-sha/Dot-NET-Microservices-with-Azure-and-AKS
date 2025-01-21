@@ -7,7 +7,7 @@ using FluentValidation;
 using FluentValidation.Results;
 using System.Linq.Expressions;
 
-namespace BusinessLogicLayer.Services;
+namespace eCommerce.BusinessLogicLayer.Services;
 
 public class ProductsService : IProductsService
 {

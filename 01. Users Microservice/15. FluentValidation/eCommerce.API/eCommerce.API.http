@@ -1,0 +1,18 @@
+﻿@eCommerce.API_HostAddress = https://localhost:7186
+
+POST {{eCommerce.API_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+
+
+###
+
+POST {{eCommerce.API_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+    "Email":"amb@test.com",
+    "Password":"Test"
+}
+
+###
